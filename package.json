@@ -1,0 +1,17 @@
+{
+  "name": "step-number",
+  "version": "1.0.0",
+  "description": "A program that sweeps sets looking for step numbers. More at https://projecteuler.net/problem=178.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.42"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.5"
+  }
+}
